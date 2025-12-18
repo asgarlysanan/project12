@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Neural Windows OS",
+  "description": "A fully voice-controlled, proactive AI operating system layer for Windows simulation. Features automatic environment scanning, app integration, and predictive system monitoring.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
